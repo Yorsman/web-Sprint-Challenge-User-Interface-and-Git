@@ -172,3 +172,41 @@ header nav a {
     width: 100%;
 text-align: center;
 }
+
+.section1 {
+    width: 98%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.section2 {
+    width: 98%;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.info {
+    margin-bottom: 20px;
+    
+}
+
+.item1, .item2, .item3, .item4 {
+    width: 100%;
+   
+    align-self: center;
+    padding: 0;
+    margin: 10px;
+    text-align: center;
+}
+
+.last-info {
+    padding: 20px 0 20px 0;
+}
+
+button {
+    border-radius: 5px;
+    font-size: 12px;
+    padding: 8px;
+}
